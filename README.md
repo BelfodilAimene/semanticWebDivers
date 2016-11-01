@@ -1,5 +1,5 @@
-Guide Projet
-============
+Guide Projet Web Sémantique 4IF
+===============================
 
 ### Etape 1 - Récupérer quelques URLs de Google Search
 Pour cela nous avons fournis le petit script **querygoogle.sh** qui permet de récupérer les **URLs** retournés par **Google Sreach** en réponse d'une requête **Query**.
